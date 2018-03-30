@@ -1,0 +1,237 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.amazonaws:aws-android-sdk-kinesisvideo:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-kinesisvideo-2.6.18.aar\4060fa13efaee8f22b9289bd0ae15016\AndroidManifest.xml:2:89-6:80
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\2899c85cfa9adb6d736f86ca0663d870\AndroidManifest.xml:2:1-10:80
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:2:1-21:80
+MERGED from [com.android.support:design:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\1051ef776388260946d7682104a48411\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\10b6c687f398ef882198957c090b0c66\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\737298cb8b90fb7d9fd8353783005166\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\569b9b74453db64339d46fa400ec2a47\AndroidManifest.xml:2:1-11:12
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-core-2.6.18.aar\6e53e1e46822a9a793157e7683676600\AndroidManifest.xml:2:1-4:80
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\394b32e31be518c7ae0514a4547af2b3\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\14c698cbb2681f120607480b8285c8df\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\5e27f1b3b646225218905033f6e8a943\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\58081e677aca1c0df3db203b37b74f64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\35b9c81fce0d8ab222129a98822eed8f\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\36529e5e45a8d6ae49c6b916282b8613\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\b40df4ebab0a3a07a83a2de5731b0c54\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\8f8af91aac0716b808449bf8c07ba52f\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:3:11-55
+		INJECTED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:5:5-66
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\2899c85cfa9adb6d736f86ca0663d870\AndroidManifest.xml:4:5-66
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\2899c85cfa9adb6d736f86ca0663d870\AndroidManifest.xml:4:5-66
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:4:5-66
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:6:5-78
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\2899c85cfa9adb6d736f86ca0663d870\AndroidManifest.xml:5:5-78
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\2899c85cfa9adb6d736f86ca0663d870\AndroidManifest.xml:5:5-78
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:5:5-78
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:7:5-64
+MERGED from [com.amazonaws:aws-android-sdk-kinesisvideo:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-kinesisvideo-2.6.18.aar\4060fa13efaee8f22b9289bd0ae15016\AndroidManifest.xml:3:5-64
+MERGED from [com.amazonaws:aws-android-sdk-kinesisvideo:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-kinesisvideo-2.6.18.aar\4060fa13efaee8f22b9289bd0ae15016\AndroidManifest.xml:3:5-64
+	android:name
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:8:22-78
+uses-feature#android.hardware.camera2
+ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:9:5-61
+	android:name
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:9:19-58
+application
+ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:11:5-34:19
+MERGED from [com.amazonaws:aws-android-sdk-kinesisvideo:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-kinesisvideo-2.6.18.aar\4060fa13efaee8f22b9289bd0ae15016\AndroidManifest.xml:4:5-5:19
+MERGED from [com.amazonaws:aws-android-sdk-kinesisvideo:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-kinesisvideo-2.6.18.aar\4060fa13efaee8f22b9289bd0ae15016\AndroidManifest.xml:4:5-5:19
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\2899c85cfa9adb6d736f86ca0663d870\AndroidManifest.xml:7:5-9:19
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\2899c85cfa9adb6d736f86ca0663d870\AndroidManifest.xml:7:5-9:19
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:8:6-20:20
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:8:6-20:20
+MERGED from [com.android.support:design:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\1051ef776388260946d7682104a48411\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\1051ef776388260946d7682104a48411\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\10b6c687f398ef882198957c090b0c66\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\10b6c687f398ef882198957c090b0c66\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\737298cb8b90fb7d9fd8353783005166\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\737298cb8b90fb7d9fd8353783005166\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\569b9b74453db64339d46fa400ec2a47\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\569b9b74453db64339d46fa400ec2a47\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\394b32e31be518c7ae0514a4547af2b3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\394b32e31be518c7ae0514a4547af2b3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\14c698cbb2681f120607480b8285c8df\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\14c698cbb2681f120607480b8285c8df\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\5e27f1b3b646225218905033f6e8a943\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\5e27f1b3b646225218905033f6e8a943\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\35b9c81fce0d8ab222129a98822eed8f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\35b9c81fce0d8ab222129a98822eed8f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\36529e5e45a8d6ae49c6b916282b8613\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\36529e5e45a8d6ae49c6b916282b8613\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\b40df4ebab0a3a07a83a2de5731b0c54\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\b40df4ebab0a3a07a83a2de5731b0c54\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\8f8af91aac0716b808449bf8c07ba52f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\8f8af91aac0716b808449bf8c07ba52f\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:12:9-78
+activity#com.amazonaws.kinesisvideo.demoapp.activity.StartUpActivity
+ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:18:9-28:20
+	android:label
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:20:13-57
+	android:name
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:19:13-87
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:24:17-68
+	android:name
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:26:27-74
+activity#com.amazonaws.kinesisvideo.demoapp.activity.SimpleNavActivity
+ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:29:9-33:20
+	android:label
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:31:13-62
+	android:theme
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:32:13-44
+	android:name
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml:30:13-89
+uses-sdk
+INJECTED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml
+MERGED from [com.amazonaws:aws-android-sdk-kinesisvideo:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-kinesisvideo-2.6.18.aar\4060fa13efaee8f22b9289bd0ae15016\AndroidManifest.xml:6:1-69
+MERGED from [com.amazonaws:aws-android-sdk-kinesisvideo:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-kinesisvideo-2.6.18.aar\4060fa13efaee8f22b9289bd0ae15016\AndroidManifest.xml:6:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\2899c85cfa9adb6d736f86ca0663d870\AndroidManifest.xml:10:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\2899c85cfa9adb6d736f86ca0663d870\AndroidManifest.xml:10:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:21:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:21:1-69
+MERGED from [com.android.support:design:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\1051ef776388260946d7682104a48411\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\1051ef776388260946d7682104a48411\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\10b6c687f398ef882198957c090b0c66\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\10b6c687f398ef882198957c090b0c66\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\737298cb8b90fb7d9fd8353783005166\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\737298cb8b90fb7d9fd8353783005166\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\569b9b74453db64339d46fa400ec2a47\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\569b9b74453db64339d46fa400ec2a47\AndroidManifest.xml:5:5-7:41
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-core-2.6.18.aar\6e53e1e46822a9a793157e7683676600\AndroidManifest.xml:4:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-core-2.6.18.aar\6e53e1e46822a9a793157e7683676600\AndroidManifest.xml:4:1-69
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\394b32e31be518c7ae0514a4547af2b3\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\394b32e31be518c7ae0514a4547af2b3\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\14c698cbb2681f120607480b8285c8df\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\14c698cbb2681f120607480b8285c8df\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\5e27f1b3b646225218905033f6e8a943\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\5e27f1b3b646225218905033f6e8a943\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\58081e677aca1c0df3db203b37b74f64\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\58081e677aca1c0df3db203b37b74f64\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\35b9c81fce0d8ab222129a98822eed8f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\35b9c81fce0d8ab222129a98822eed8f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\36529e5e45a8d6ae49c6b916282b8613\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\36529e5e45a8d6ae49c6b916282b8613\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\b40df4ebab0a3a07a83a2de5731b0c54\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\b40df4ebab0a3a07a83a2de5731b0c54\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\8f8af91aac0716b808449bf8c07ba52f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\8f8af91aac0716b808449bf8c07ba52f\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\10b6c687f398ef882198957c090b0c66\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Steve\Desktop\aws-sdk-android-samples-master\AmazonKinesisVideoDemoApp\src\main\AndroidManifest.xml
+activity#com.amazonaws.mobile.auth.ui.SignInActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\2899c85cfa9adb6d736f86ca0663d870\AndroidManifest.xml:8:9-234
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\2899c85cfa9adb6d736f86ca0663d870\AndroidManifest.xml:8:196-232
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\2899c85cfa9adb6d736f86ca0663d870\AndroidManifest.xml:8:90-136
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\2899c85cfa9adb6d736f86ca0663d870\AndroidManifest.xml:8:19-89
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-ui-2.6.18.aar\2899c85cfa9adb6d736f86ca0663d870\AndroidManifest.xml:8:137-195
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:6:22-73
+activity#com.amazonaws.mobile.auth.userpools.ForgotPasswordActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:9:10-10:21
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:9:220-256
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:9:91-145
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:9:20-90
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:9:146-219
+activity#com.amazonaws.mobile.auth.userpools.SignUpActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:12:10-13:21
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:12:204-240
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:12:91-137
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:12:20-90
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:12:138-203
+activity#com.amazonaws.mobile.auth.userpools.MFAActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:15:10-16:21
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:15:197-233
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:15:91-133
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:15:20-90
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:15:134-196
+activity#com.amazonaws.mobile.auth.userpools.SignUpConfirmActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:18:10-19:21
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:18:219-255
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:18:91-145
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:18:20-90
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] C:\Users\Steve\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-userpools-2.6.18.aar\9389d02aab8ec77a435b4d0ff6adb710\AndroidManifest.xml:18:146-218

@@ -1,0 +1,22 @@
+{
+  "Version": "1.0",
+  "CredentialsProvider": {
+    "CognitoIdentity": {
+      "Default": {
+        "PoolId": "CHANGEZ-MOI",
+        "Region": "CHANGEZ-MOI"
+      }
+    }
+  },
+  "IdentityManager": {
+    "Default": {}
+  },
+  "CognitoUserPool": {
+    "Default": {
+      "AppClientSecret": "CHANGEZ-MOI",
+      "AppClientId": "CHANGEZ-MOI",
+      "PoolId": "CHANGEZ-MOI",
+      "Region": "CHANGEZ-MOI"
+    }
+  }
+}

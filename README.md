@@ -1,3 +1,22 @@
+
+Cyril SANTOS
+El Amin Halifa
+Fadi Atia
+Steve Saint Fleur
+
+Description de l'app:
+
+SquadProj est une application de lecture de vidéo en streaming.
+Afin de lire les videos nous avons utilisé le service Kinésis.
+Pour nous identifier nous sommes passé par le service Cognito pour une plus simple gestion d'identification.
+
+Description des services:
+
+Amazon Cognito simplifie l'inscription des utilisateurs et leur connexion à vos applications, la fédération d'identités provenant de fournisseurs d'identité sociale, la sécurisation de l'accès aux ressources AWS et la synchronisation des données sur plusieurs appareils, plateformes et applications.
+
+Les flux vidéo Kinesis permettent l'intégration, l'archivage et l'indexation des données gérées pour les données de séries chronologiques.
+
+
 # Running AmazonKinesisVideoStreaming Sample
 
 ## 1. Create a user pool
